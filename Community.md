@@ -909,3 +909,39 @@
       <td>SRCC</td>
   </tr>
 </table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Janvi Rampal</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/Janvirampal</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in/</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal institute</td>
+  </tr>
+</table>
+<table>
+  <tr>
+      <td>Name</td>
+      <td>Japneet Kaur</td>
+  </tr>
+  <tr>
+      <td>GitHub</td>
+      <td>https://github.com/japneetkaur17</td>
+  </tr>
+  <tr>
+      <td>LinkedIn</td>
+      <td>https://www.linkedin.com/in//</td>
+  </tr>
+  <tr>
+      <td>College</td>
+      <td>Maharaja Surajmal institute</td>
+  </tr>
+</table>
